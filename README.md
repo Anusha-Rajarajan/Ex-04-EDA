@@ -70,5 +70,8 @@ sns.heatmap(df.corr(),annot=True)
 ![output](./v6.png)
 ![output](./v7.png)
 ![output](./v8.png)
+![output](./v9.png)
+![output](./v10.png)
+
 ## RESULT:
 The data has been cleaned, outlier has been removed and the EDA on the given data has been performed.
